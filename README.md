@@ -3,8 +3,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20(Material%203)-4285F4?style=flat&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Min SDK](https://img.shields.io/badge/Min%20SDK-24-informational)](https://developer.android.com/)
-[![Target SDK](https://img.shields.io/badge/Target%20SDK-36-informational)](https://developer.android.com/)
+
 
 **SliceSave** is a modern Android application built using **Jetpack Compose** and **Material 3**. It connects consumers with local restaurants, cafes, and grocery stores to rescue surplus fresh food at steep discounts, fighting food waste while making quality food accessible and affordable.
 
@@ -123,6 +122,3 @@ Contributions, bug reports, and feature requests are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use and adapt it for learning or personal projects.
